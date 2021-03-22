@@ -3,5 +3,5 @@ class SocialNetworkUrls {
   static const GIT_HUB = "https://github.com/THANGADURAISELVARAJ";
   static const INSTAGRAM = "https://www.instagram.com/a_l_v_i_n_gold/";
   static const TWITTER = "https://twitter.com/allunivingold";
-  static const RESUME_URL = "https://github.com/THANGADURAISELVARAJ/Resume/raw/main/Full%20Resume.pdf";
+  static const RESUME_URL = "https://github.com/THANGADURAISELVARAJ/Resume/raw/main/Thangadurai%20Resume.pdf";
 }
